@@ -1,4 +1,10 @@
-Changes the colour of GNOME's top bar according to the system load
+# Adaptive bar for GNOME Shell
+
+Trivial extension that changes the colour of GNOME's top bar according to the system CPU load
+
+![image info](.figures/a.png)
+![image info](.figures/b.png)
+![image info](.figures/c.png)
 
 ## Install
 
