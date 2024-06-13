@@ -1,0 +1,8 @@
+{
+    "uuid": "change-top-bar-color@yourdomain",
+    "name": "Change Top Bar Color",
+    "description": "Changes the top bar color",
+    "version": 1,
+    "shell-version": ["3.36", "3.38", "40", "41", "42"],
+    "settings-schema": "org.gnome.shell.extensions.change-top-bar-color"
+}
